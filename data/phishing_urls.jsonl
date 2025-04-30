@@ -1,0 +1,20 @@
+{"id": 0, "url": "https://www.apple.com", "title": "Apple Official Site", "status": "normal"}
+{"id": 1, "url": "https://login-secure-apple.com/idlogin.php", "title": "Apple Login Secure", "status": "highly suspicious"}
+{"id": 2, "url": "https://www.microsoft.com/en-us", "title": "Microsoft Official Website", "status": "normal"}
+{"id": 3, "url": "http://account-update.microsoftsupport.xyz", "title": "Microsoft Account Update", "status": "highly suspicious"}
+{"id": 4, "url": "https://www.nytimes.com", "title": "The New York Times - Breaking News", "status": "normal"}
+{"id": 5, "url": "http://secure-nytimes-readonline.com", "title": "New York Times Secure Reading", "status": "suspicious"}
+{"id": 6, "url": "https://www.linkedin.com", "title": "LinkedIn: Log In or Sign Up", "status": "normal"}
+{"id": 7, "url": "http://linkedin.jobs-authenticator.com", "title": "LinkedIn Jobs Authenticator", "status": "highly suspicious"}
+{"id": 8, "url": "https://github.com", "title": "GitHub: Where the world builds software", "status": "normal"}
+{"id": 9, "url": "http://secure-github.com-userlogin.ml", "title": "GitHub User Login", "status": "highly suspicious"}
+{"id": 10, "url": "https://www.reddit.com", "title": "Reddit - Dive into anything", "status": "normal"}
+{"id": 11, "url": "http://reddit-safe-login.com", "title": "Reddit Secure Login", "status": "suspicious"}
+{"id": 12, "url": "https://openai.com", "title": "OpenAI - Discovering and enacting the path to safe AGI", "status": "normal"}
+{"id": 13, "url": "http://openai-account-verification.netlify.app", "title": "OpenAI Account Verification", "status": "highly suspicious"}
+{"id": 14, "url": "https://www.amazon.com", "title": "Amazon.com: Online Shopping", "status": "normal"}
+{"id": 15, "url": "http://amazon-secureorder-verification.com", "title": "Amazon Secure Order", "status": "highly suspicious"}
+{"id": 16, "url": "https://www.stackoverflow.com", "title": "Stack Overflow - Where Developers Learn and Share", "status": "normal"}
+{"id": 17, "url": "http://stackoverflow-helpcenter-login.web.app", "title": "Stack Overflow Helpcenter", "status": "suspicious"}
+{"id": 18, "url": "https://twitter.com", "title": "Twitter. It’s what’s happening / X", "status": "normal"}
+{"id": 19, "url": "http://twitter.account-recovery.center", "title": "Twitter Account Recovery", "status": "highly suspicious"}

@@ -1,0 +1,12 @@
+system prompt
+You are a cybersecurity analyst assistant trained to detect phishing attempts based on URL structure, domain reputation, keyword usage, and common obfuscation techniques.
+
+user prompt
+For each input URL, classify it as one of the following:
+normal – trusted, well-known domain with no signs of phishing.
+suspicious – contains mild signs of phishing such as unusual subdomains or slightly misspelled brand names.
+highly suspicious – strong signs of phishing, such as fake login pages, known malicious domains, or deceptive structure.
+
+Use reasoning based on patterns like typosquatting (e.g., "paypa1.com"), use of IP addresses, uncommon TLDs (.ru, .tk), HTTPS misuse, and misleading subdomains.
+
+Classify the following URL <url>. Reply only with one of the words - normal, suspicious, or highly suspicious.

@@ -1,0 +1,5 @@
+system prompt
+You are a helpful assistant that analyzes content and determine if they are phishing attempts.
+
+user prompt
+Classify the following URL as normal, suspicious, or highly suspicious <url>. Reply only with one of the words - normal, suspicious, or highly suspicious.
